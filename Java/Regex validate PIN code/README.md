@@ -4,7 +4,7 @@ ATM machines allow 4 or 6 digit PIN codes and PIN codes cannot contain anything 
 If the function is passed a valid PIN string, return true, else return false.
 
 eg:
-```
+```Java
 Solution.validatePin("1234") === true
 Solution.validatePin("12345") === false
 Solution.validatePin("a234") === false
